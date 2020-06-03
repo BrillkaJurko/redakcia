@@ -3,9 +3,9 @@ Autor: Juraj Brilla
 Nazov: Podme na pivo
 Datum: 1.6.2020
 ----
-
-
-
+Pivo lieci
+Podme na pivo
+Tulipan caka
 ----
 
 
